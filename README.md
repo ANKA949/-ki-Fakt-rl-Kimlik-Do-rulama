@@ -3,6 +3,9 @@
 2. pip install random
 3. pip install pyfiglet
 
+## --- Çalıstırmak için ---
+###  terminale  python3 giriş.py  yazıp entere basın
+
 # Not mail adresinizin güvenlik kısmına gelip "Güvenliği düşük uygulama erişimini" acın yoksa mail gönderemez
 ### Burda mail adresinizi ve şifresini koda duzunleyin
 ### Kullanıcı_adı= deneme ve kullanıcı_şifre = 1234 
